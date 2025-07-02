@@ -15,7 +15,7 @@ export default function Hero() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
             <a
-                href="https://www.linkedin.com/in/your-profile"
+                href="https://www.linkedin.com/in/paras-shrawaney"
                 target="_blank"
                 rel="noopener noreferrer">
 
